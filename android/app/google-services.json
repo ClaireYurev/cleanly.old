@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046951847815",
+    "project_id": "cleanly-firebase-crud",
+    "storage_bucket": "cleanly-firebase-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046951847815:android:221edbfdd9bffc33e65522",
+        "android_client_info": {
+          "package_name": "so.cleanly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046951847815-8jq2fqe63mvhprokhdk3qqcuqs12uu1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujKAzDUzyMc1XJf7rSqkJiTjDhgxX2Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046951847815-8jq2fqe63mvhprokhdk3qqcuqs12uu1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
