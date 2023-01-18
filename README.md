@@ -1,6 +1,6 @@
 # Cleanly App (Android)
 
-A carwash ordering app built using Flutter.
+A carwash ordering app built using Flutter and Dart.
 
 ## State Management
 
