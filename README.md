@@ -1,4 +1,4 @@
-# Cleanly App (Android)
+# Cleanly App (Android) [OLD]
 
 A carwash ordering app built using Flutter and Dart.
 
